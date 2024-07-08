@@ -1,0 +1,1 @@
+An example for a Hexagonal Architecture inspired by the book "Hexagonal Architecture Explained" by Alistair Cockburn and Juan Manuel Garrido de Paz.
